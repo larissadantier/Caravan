@@ -17,6 +17,7 @@ body{
 .lista-plano li {
     padding: 1rem;
 }
+
 #home-quote{
     background: url("../img/bg-quote.jpg") center center;
     background-size: cover;
