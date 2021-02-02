@@ -10,6 +10,13 @@ body{
     height: 100px;
 }
 
+.lista-plano li + li{
+    border-top: 1px solid rgba(0, 0, 0, .2);   
+}
+
+.lista-plano li {
+    padding: 1rem;
+}
 #home-quote{
     background: url("../img/bg-quote.jpg") center center;
     background-size: cover;
